@@ -1,5 +1,5 @@
 # A-B-Testing-Analysis
-# Statistical Analysis: A/B testing and Machine Learning
+## Statistical Analysis: A/B testing and Machine Learning
 
 ### Project Objective
 
